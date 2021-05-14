@@ -1,0 +1,12 @@
+{
+  "name": "technobitzlogin",
+  "displayName": "technobitzlogin",
+  "expo": {
+    "name": "technobitzlogin",
+    "slug": "technobitzlogin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
